@@ -1,5 +1,3 @@
-Code Samples
-
 A collection of code snippets extracted from previous projects.
 
 Most of the projects I worked on are private, so I can't share the full source code.
